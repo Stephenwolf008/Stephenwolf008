@@ -16,10 +16,10 @@
 
 ### Languages and Tools:
 <br/> 
-  <a>                                                                                                                                                        
+  <a>                                                                                                                                                        <p align="left"> 
 <img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<p align="left"> 
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
@@ -76,15 +76,15 @@
   <br>
 
   <a href="https://www.linkedin.com/in/rakshit-kaushik-1a43b5190/">
-    <img align="left" alt="Ayush Chandola | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Rakshit Kaushik | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
   <a href="mailto:kartikkaushik544@gmail.com">
-    <img align="left" alt="Ayush Chandola | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Rakshit Kaushik | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
                                                                                                                                                      
   <a href="https://www.instagram.com/kyayaarrakshit/">
-    <img align="left" alt="Ayush Chandola | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Rakshit Kaushik | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>  
 
 <br><br> 
@@ -94,12 +94,12 @@
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenwolf008" alt="Stephenwolf008" /></p>
                                                                                                                               
-  <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcode.com/Stephenwolf008/?theme=unicorn&font=Tauri" unselectable="on" alt="Stephenwolf008"/></p>
+  <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/Stephenwolf008?theme=unicorn&font=Tauri" unselectable="on" alt="Stephenwolf008"/></p>
   
 
 <br> <br>
   
 <!--   <a>
-  ![](https://komarev.com/ghpvc/?username=your-github-ayush2409&color=blueviolet) 
+  ![](https://komarev.com/ghpvc/?username=your-github-Stephenwolf008&color=blueviolet) 
 </a>
  -->
