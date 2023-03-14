@@ -16,14 +16,9 @@
 
 ### Languages and Tools:
 <br/> 
-  <a>                                                                                                                                                                
-<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <a>                                                                                                                                                        
 <img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="C++" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -64,15 +59,15 @@
  <br />
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Stephenwolf008&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwolf008&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
   <br>
 </p>
                                                                                                                                 
 <!--   <p>
 <a href="https://github.com/Stephenwolf008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush2409&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2409&theme=vue&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephenwolf008&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwolf008&theme=vue&layout=compact" />
 </a>
 </p>  -->
    
@@ -97,9 +92,9 @@
  ---
                                                                                                                                                     
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2409" alt="ayush2409" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenwolf008" alt="Stephenwolf008" /></p>
                                                                                                                               
-  <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcode.com/Stephenwolf008?theme=unicorn&font=Tauri" unselectable="on" alt="Akashi_04"/></p>
+  <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcode.com/Stephenwolf008/?theme=unicorn&font=Tauri" unselectable="on" alt="Stephenwolf008"/></p>
   
 
 <br> <br>
