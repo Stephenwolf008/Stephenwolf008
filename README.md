@@ -91,9 +91,9 @@
                                                                                                                                                     
  ---
                                                                                                                                                     
-                                                        #### GitHub Stats
+                                                              GitHub Stats
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenwolf008" alt="Stephenwolf008" /></p>
-                                                        #### Leetcode Stats                                                                      
+                                                              Leetcode Stats                                                                      
   <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/Stephenwolf008?theme=unicorn&font=Tauri" unselectable="on" alt="Stephenwolf008"/></p>
   
 
