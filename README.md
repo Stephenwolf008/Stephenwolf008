@@ -3,10 +3,10 @@
 <img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
 
 
-## I'm a BTECH CSE Undergrad
-- 🌱 Final year undergrad 👨‍🎓
+## I'm a BTECH CSE Graduate
+- 🌱 Waiting for my graduate degree 👨‍🎓
 - 🍔 Foodie
-- 🥅 2023 Goal: Secure a good placement and work on open source projects
+- 🥅 2023 Goal: Work on open source projects
 - ⚡ Hobbies: I love to draw and play video games and watch anime
 - 😻 Love to make new friends
 
