@@ -3,9 +3,8 @@
 <img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
 
 
-## I'm a Software Developer at SunLife
+## I'm a Software Developer
 - 🍔 Foodie
-- ⚡ Hobbies: I love to draw and play video games and watch anime
 - 😻 Love to make new friends
 
 <br />
