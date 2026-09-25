@@ -1,102 +1,178 @@
-# Hi there, I'm Rakshit  👋 
-<h1 align="center">
-<img src=https://c.tenor.com/U_uNY-KPh60AAAAC/how-you-doin-friends.gif" height="200px">
+# Hi, I'm Rakshit Kaushik 👋
 
+### Software Engineer • Java Backend • Full Stack • GenAI
 
-## I'm a Software Developer
-- 🍔 Foodie
-- 😻 Love to make new friends
+I’m a Software Engineer with **3+ years of experience** building backend services, web applications, and AI-powered solutions.
 
-<br />
+Currently working at **Sun Life**, where I work primarily with **Java, Spring Boot, microservices, REST APIs, React.js, SQL, CI/CD, and observability**.
+
+I'm particularly interested in building **scalable backend systems and AI-native applications** that combine solid software engineering with modern Generative AI.
+
+---
+
+## 🚀 What I Work With
+
+```text
+Backend          → Java • Spring Boot • Microservices • REST APIs
+Frontend         → React.js • JavaScript • HTML • CSS
+Databases        → SQL • MongoDB
+AI / GenAI       → LLMs • LangGraph • Multi-Agent Systems • Text-to-SQL
+DevOps           → Jenkins • Kubernetes • Git • CI/CD
+Observability    → Grafana
+Engineering      → API Design • Caching • Security • System Design
+```
 
 ---
 
-### Languages and Tools:
-<br/> 
-  <a>                                                                                                                                                        <p align="left"> 
-<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+## 💼 Professional Experience
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;
-  </a>
-    
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-  </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-<br/>
-<br />
+### Software Engineer @ Sun Life
+
+Building and maintaining enterprise applications across backend, frontend, automation, and observability.
+
+* Developed and enhanced **Java Spring Boot microservices** and REST APIs.
+* Built frontend features and **Single Page Applications using React.js**.
+* Implemented **Hazelcast caching**, improving API response times by up to **40%**.
+* Modernized microservices from **Java 11 → Java 21** with the help of GitHub Copilot.
+* Built **Grafana dashboards** integrating data from Jira, Jenkins, and Bitbucket to provide engineering metrics for leadership.
+* Developed a **CSR Automation** application integrating a React frontend with an ML REST API, reducing manual document-review effort by approximately **60%**.
+* Worked on security and code-quality improvements including **threat modeling, dependency upgrades, SonarQube remediation, and technical-debt reduction**.
+* Contributed to an AI-powered **townhall co-host** using speech-to-text, text-to-speech, conversational AI, and a 3D avatar.
 
 ---
-                                                                                                                                  
- ### Github Stats:
- <br />
+
+## 🤖 AI & GenAI
+
+I'm exploring how traditional software engineering can be combined with Generative AI and agentic systems.
+
+### 🏭 Multi-Agent AI Software Factory
+
+A multi-agent development platform designed to automate parts of the software-development lifecycle.
+
+**React • Python • LangGraph • LLMs • Multi-Agent Workflows**
+
+The system experiments with agents for:
+
+`Requirements → Product Planning → Architecture → Development → QA → Security`
+
+---
+
+### 🗃️ AI Text-to-SQL
+
+An AI-powered application that converts natural-language questions into SQL queries while using database schema context, validation, execution, and result explanations.
+
+**React • Python • LLMs • SQL • Schema-aware prompting**
+
+---
+
+### 💎 Caratelle
+
+A modern jewellery e-commerce platform built with a production-style architecture.
+
+**React • JavaScript • Node.js • Express • MongoDB • REST APIs**
+
+Features include product discovery, search, filtering, dynamic pricing, wishlist functionality, and an extensible product catalog.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,sql" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,kubernetes,jenkins,git,github" />
+</p>
+
+### AI / Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,github" />
+</p>
+
+`LangGraph` • `LLMs` • `Multi-Agent Systems` • `GitHub Copilot` • `Grafana`
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Stephenwolf008&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwolf008&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <br>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Stephenwolf008&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwolf008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
-                                                                                                                                
-<!--   <p>
-<a href="https://github.com/Stephenwolf008">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephenwolf008&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenwolf008&theme=vue&layout=compact" />
-</a>
-</p>  -->
-   
-  #### Contact Me:
-                                                                                                                                  
-  <br>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenwolf008&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🧩 Currently Exploring
+
+* Generative AI & LLM applications
+* Multi-agent architectures
+* LangGraph
+* RAG & vector databases
+* AI-powered developer tools
+* Backend system design
+* Scalable microservices
+* AI-native product development
+
+---
+
+## 🎯 A Little More About Me
+
+* 💻 Software Engineer focused on **Java backend & full-stack development**
+* 🤖 Exploring **Generative AI and agentic systems**
+* 🧠 Always experimenting with new engineering ideas
+* 🍔 Food enthusiast
+* 🎮 Love building side projects
+* 🌱 Constantly learning and improving
+
+---
+
+## 🤝 Let's Connect
+
+<p>
   <a href="https://www.linkedin.com/in/rakshit-kaushik-1a43b5190/">
-    <img align="left" alt="Rakshit Kaushik | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
   <a href="mailto:kartikkaushik544@gmail.com">
-    <img align="left" alt="Rakshit Kaushik | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-                                                                                                                                                     
   <a href="https://www.instagram.com/kyayaarrakshit/">
-    <img align="left" alt="Rakshit Kaushik | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br><br> 
-                                                                                                                                                    
- ---
-                                                                                                                                                    
-  GitHub Stats
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephenwolf008" alt="Stephenwolf008" /></p>
-  Leetcode Stats                                                                      
-  <p align="center"><img align="center" style="width: 475px; pointer-events: none; user-select: none;" src="https://leetcard.jacoblin.cool/Stephenwolf008?theme=unicorn&font=Tauri" unselectable="on" alt="Stephenwolf008"/></p>
-  
+---
 
-<br> <br>
-  
-<!--   <a>
-  ![](https://komarev.com/ghpvc/?username=your-github-Stephenwolf008&color=blueviolet) 
-</a>
- -->
+<p align="center">
+  <i>"Build. Learn. Break. Improve. Repeat."</i>
+</p>
